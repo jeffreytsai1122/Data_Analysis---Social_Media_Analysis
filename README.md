@@ -11,3 +11,4 @@ We found that Patagonia’s strength lies in value-driven storytelling and grass
 Brands that stay authentic to their values build stronger communities than those chasing visibility.
 
 (The data visualized results and conclusions can be found in the report)
+(This is a master degree course project in UIUC)
