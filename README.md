@@ -1,4 +1,4 @@
-# Poject Overview
+# Project Overview
 When we moved from Asia to the Midwest, we started noticing how outdoor culture shapes brand identity. So, for our Social Media Analysis final project, we compared two outdoor giants — Patagonia and Arc'teryx — on Twitter.
 
 # Methodology
